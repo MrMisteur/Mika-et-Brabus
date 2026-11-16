@@ -404,7 +404,7 @@ Un bug, une idée, une question ? Rejoins le **[serveur de support](https://disc
 | | |
 | --- | --- |
 | **Créateur et développeur** | [MrMisteur](https://github.com/MrMisteur) |
-| **Idée, personnalités et univers** | MrMisteur | Manolo | Mavox
+| **Idée, personnalités et univers** | MrMisteur, Manolo et Mavox |
 | **Identité visuelle de Brabus** | Photo de profil, bannière et émojis du Tonton, en noir et or |
 
 ### 🛠️ Outils et services utilisés
