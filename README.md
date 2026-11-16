@@ -27,7 +27,7 @@ Mika gère ton serveur. Brabus l'anime.
 
 | | 🖤 **Mika** | 🌴 **Brabus** |
 | --- | --- | --- |
-| **Personnalité** | E-girl dominatrice, « entre potes » | Tonton antillais grande gueule et attachant |
+| **Personnalité** | E-girl dominatrice | Tonton antillais grande gueule et attachant |
 | **Rôle principal** | Gérer et faire vivre le serveur : économie, niveaux, modération | Faire rire et jouer : jeux de groupe, duels, jeux dans le navigateur |
 | **Points forts** | Économie complète, niveaux et prestige, saisons, tickets, giveaways | 22 jeux, Tour de l'Île, Dessine et devine, tournois, musique shatta |
 | **Modération** | ✅ Complète | ❌ Aucune (il laisse ça à Mika) |
