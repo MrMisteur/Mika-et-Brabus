@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖤 Mika & 🌴 Brabus
+#  Mika 🖤 &  Brabus 🌴
 
 **Deux bots Discord IA en français, faits par [MrMisteur](https://github.com/MrMisteur).**
 
