@@ -381,9 +381,9 @@ Viens sur le [serveur de support] ou utilise le formulaire du site de Brabus.
 
 | | Lien |
 | --- | --- |
-| 🖤 Site de Mika | [51.79.44.110:9315] |
-| 🌴 Site de Brabus | [78.154.103.48:9890] |
-| 💬 Serveur de support | [discord.gg/ZKtzpFuep9] |
+| 🖤 Site de Mika | |
+| 🌴 Site de Brabus |  |
+| 💬 Serveur de support |  |
 | 👤 Créateur | [MrMisteur sur GitHub](https://github.com/MrMisteur) |
 
 ## Support
