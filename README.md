@@ -6,7 +6,7 @@
 
 *Mika gère ton serveur. Brabus l'anime.*
 
-[💬 Serveur de support](https://discord.gg/ZKtzpFuep9) · [🖤 Site de Mika](http://51.79.44.110:9315) · [🌴 Site de Brabus](http://78.154.103.48:9890)
+[💬 Serveur de support] · [🖤 Site de Mika] · [🌴 Site de Brabus]
 
 </div>
 
@@ -56,12 +56,12 @@ Les deux bots se complètent : ils ne font pas la même chose, ils ne se marchen
 
 ## Pour bien commencer
 
-1. **Ouvre le site** du bot que tu veux ([Mika](http://51.79.44.110:9315) ou [Brabus](http://78.154.103.48:9890)) et clique sur **Ajouter**.
+1. **Ouvre le site** du bot que tu veux ([Mika] ou [Brabus]) et clique sur **Ajouter**.
 2. **Choisis ton serveur** et valide les permissions demandées.
 3. **Mika** poste un assistant de départ : tu choisis la **langue** et le **fuseau horaire** du serveur. Le tutoriel **/tuto** t'explique le reste en 8 étapes.
 4. **Brabus** dit bonjour à son arrivée. Tape **/jeux** pour voir tout ce qu'il propose.
 5. **Connecte-toi sur le site** avec ton compte Discord pour tout régler depuis ton navigateur.
-6. Une question ? **/aide** sur Discord, ou le [serveur de support](https://discord.gg/ZKtzpFuep9).
+6. Une question ? **/aide** sur Discord, ou le [serveur de support].
 
 > 💡 Chez Mika, l'**économie** et les **niveaux** sont désactivés au départ. Un admin les active en un clic dans **/config**.
 
@@ -210,7 +210,7 @@ Connexion avec ton compte Discord, puis tous les réglages du serveur depuis le 
 
 Chaque changement fait sur le site est vérifié par le bot et noté dans les logs du serveur.
 
-➡️ **[Ajouter Mika / voir le site](http://51.79.44.110:9315)**
+➡️ **[Ajouter Mika / voir le site]**
 
 ---
 
@@ -325,7 +325,7 @@ Un **jeu de plateau original** joué dans le navigateur, de 1 à 6 joueurs. On l
 - **Classement mondial**, **nouveautés** et formulaire **bug / suggestion**.
 - Tout le site existe en français et en anglais.
 
-➡️ **[Ajouter Brabus / voir le site](http://78.154.103.48:9890)**
+➡️ **[Ajouter Brabus / voir le site]**
 
 ---
 
@@ -373,7 +373,7 @@ Il est peut-être en mode silence ou dans un salon interdit. Un modérateur peut
 Non, les deux bots sont publics mais leur code est privé.
 
 **J'ai trouvé un bug ou j'ai une idée.**
-Viens sur le [serveur de support](https://discord.gg/ZKtzpFuep9) ou utilise le formulaire du site de Brabus.
+Viens sur le [serveur de support] ou utilise le formulaire du site de Brabus.
 
 ---
 
@@ -381,14 +381,14 @@ Viens sur le [serveur de support](https://discord.gg/ZKtzpFuep9) ou utilise le f
 
 | | Lien |
 | --- | --- |
-| 🖤 Site de Mika | [51.79.44.110:9315](http://51.79.44.110:9315) |
-| 🌴 Site de Brabus | [78.154.103.48:9890](http://78.154.103.48:9890) |
-| 💬 Serveur de support | [discord.gg/ZKtzpFuep9](https://discord.gg/ZKtzpFuep9) |
+| 🖤 Site de Mika | [51.79.44.110:9315] |
+| 🌴 Site de Brabus | [78.154.103.48:9890] |
+| 💬 Serveur de support | [discord.gg/ZKtzpFuep9] |
 | 👤 Créateur | [MrMisteur sur GitHub](https://github.com/MrMisteur) |
 
 ## Support
 
-Un bug, une idée, une question ? Rejoins le **[serveur de support](https://discord.gg/ZKtzpFuep9)**. Il est commun aux deux bots et tu y trouveras :
+Un bug, une idée, une question ? Rejoins le **[serveur de support]**. Il est commun aux deux bots et tu y trouveras :
 
 - l'aide du staff, en français et en anglais ;
 - le **statut en direct** de Mika et de Brabus (arrêts et retours) ;
